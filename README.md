@@ -1,2 +1,26 @@
-# tableau-superstore-sales-dashboard
-Interactive Tableau dashboard analyzing sales, profit, and regional performance with dynamic filters and titles.
+# 📊 Tableau Sales Dashboard
+
+## 🔍 Overview
+This project presents an interactive Tableau dashboard built using the Superstore dataset. It provides insights into sales performance, profit trends, and regional analysis.
+
+## 📈 Key Features
+- Dynamic dashboard title based on filters
+- Sales trend analysis over time
+- Profit breakdown by sub-category
+- Top 10 products by profit
+- Sales vs Profit scatter analysis
+- Geographic sales distribution
+
+## 🛠 Tools Used
+- Tableau Public
+- Data Visualization
+- Dashboard Design
+
+## 📁 File
+- `Superstore_Sales_Dashboard.twbx`
+
+## 🚀 How to Use
+Download the `.twbx` file and open it using Tableau Public or Tableau Desktop.
+
+## 📌 Author
+Aditya Venugopalan Nediyirippil
