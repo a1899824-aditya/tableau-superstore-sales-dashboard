@@ -3,6 +3,9 @@
 ## 🔍 Overview
 This project presents an interactive Tableau dashboard built using the Superstore dataset. It provides insights into sales performance, profit trends, and regional analysis.
 
+🔗 **Live Dashboard:** [https://public.tableau.com/app/profile/aditya.venugopalan.nediyirippil/viz/Superstore_Sales_Dashboard_17744051098710/Dashboard2)
+
+
 ## 📈 Key Features
 - Dynamic dashboard title based on filters
 - Sales trend analysis over time
